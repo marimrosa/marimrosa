@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil da Mari 😁
 
+Programadora Aprendiz.
+
  <div>
    <a href="https://github.com/marimrosa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,7 +17,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Entrar em contato:
  
 <div> 
   <a href = "mailto:marianarosam1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
